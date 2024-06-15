@@ -1,1 +1,9 @@
-
+#img{
+  height: 175px;
+  width:300px;
+  position:relative;
+}
+input{
+  position:default;
+  width:25px;
+}
